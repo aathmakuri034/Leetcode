@@ -1,0 +1,1 @@
+cout << min(triangle[i][j], triangle[i][j+1]) << endl;
