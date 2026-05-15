@@ -5,7 +5,7 @@ This repository contains LeetCode problems I have attempted so far, organized by
 ## Attempted Problems
 
 - **Problem 1:** `two-sum.py` — Two Sum
-- **Problem 2:** `double-loop.py` — Add Two Numbers
+- **Problem 2:** `single-loop.py` — Add Two Numbers
 - **Problem 3:** `substring.cpp` — Longest Substring Without Repeating Characters
 - **Problem 4:** `median.py` — Median of Two Sorted Arrays
 - **Problem 21:** `sortedLists.py` — Merge Two Sorted Lists
