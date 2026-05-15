@@ -1,0 +1,8 @@
+# Binary files
+
+.DS_Store
+*.out
+*.exe
+*.dll
+
+.vscode
