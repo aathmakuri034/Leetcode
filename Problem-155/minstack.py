@@ -1,5 +1,5 @@
 # https://leetcode.com/problems/min-stack/description/
-
+# SOLVED
 class MinStack:
 
     def __init__(self):
