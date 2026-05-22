@@ -10,6 +10,7 @@ This repository contains LeetCode problems I have attempted so far, organized by
 - **Problem 4:** `median.py` — Median of Two Sorted Arrays
 - **Problem 12:** `intToRoman.py` — Integer to Roman
 - **Problem 21:** `sortedLists.py` — Merge Two Sorted Lists
+- **Problem 24:** `swapPairOnePass.py` — Swap Nodes in Pairs
 - **Problem 36:** `sudoku.cpp` — Valid Sudoku
 - **Problem 120:** `triangle.cpp` — Triangle
 - **Problem 121:** `stock.cpp` — Best Time to Buy and Sell Stock
@@ -48,6 +49,7 @@ This is the progress checklist for Neetcode 150 topics, with items marked for pr
 ### Linked List
 - [x] Add Two Numbers (`Problem 2`)
 - [x] Merge Two Sorted Lists (`Problem 21`)
+- [x] Swap Nodes in Pairs (`Problem 24`)
 - [x] Reverse Linked List (`Problem 206`)
 - [x] Linked List Cycle (`Problem 141`)
 - [ ] Reorder List / Palindrome Linked List
