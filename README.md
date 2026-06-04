@@ -8,6 +8,7 @@ This repository contains LeetCode problems I have attempted so far, organized by
 - **Problem 2:** `single-loop.py` — Add Two Numbers
 - **Problem 3:** `substring.cpp` — Longest Substring Without Repeating Characters
 - **Problem 4:** `median.py` — Median of Two Sorted Arrays
+- **Problem 11:** `water.py` — Container With Most Water
 - **Problem 12:** `intToRoman.py` — Integer to Roman
 - **Problem 21:** `sortedLists.py` — Merge Two Sorted Lists
 - **Problem 24:** `swapPairOnePass.py` — Swap Nodes in Pairs
@@ -42,7 +43,7 @@ This is the progress checklist for Neetcode 150 topics, with items marked for pr
 
 ### Two Pointers / Sliding Window
 - [x] Longest Substring Without Repeating Characters (`Problem 3`)
-- [ ] Container With Most Water
+- [x] Container With Most Water (`Problem 11`)
 - [ ] Trapping Rain Water
 - [ ] Minimum Size Subarray Sum
 
