@@ -20,6 +20,7 @@ This repository contains LeetCode problems I have attempted so far, organized by
 - **Problem 2055:** `plate_between_candles.cpp` — Plates Between Candles
 - **Problem 206:** `reverse.py` — Reverse Linked List
 - **Problem 217:** `duplicate.cpp` — Contains Duplicate
+- **Problem 226:** `invert.py` — Invert Binary Tree
 - **Problem 238:** `product.py` / `product.cpp` — Product of Array Except Self
 
 > Note: Some directories contain temporary or compiled files such as `tempCodeRunnerFile.cpp` and `a.out`; the list above focuses on the actual solution files.
@@ -29,6 +30,7 @@ This repository contains LeetCode problems I have attempted so far, organized by
 This is the progress checklist for Neetcode 150 topics, with items marked for problems I have already attempted.
 
 ### Array / Hash Table
+
 - [x] Two Sum (`Problem 1`)
 - [x] Contains Duplicate (`Problem 217`)
 - [x] Product of Array Except Self (`Problem 238`)
@@ -36,18 +38,21 @@ This is the progress checklist for Neetcode 150 topics, with items marked for pr
 - [ ] Two Sum II / Two Sum Less Than K
 
 ### Stack
+
 - [x] Min Stack (`Problem 155`)
 - [ ] Valid Parentheses
 - [ ] Daily Temperatures
 - [ ] Car Fleet
 
 ### Two Pointers / Sliding Window
+
 - [x] Longest Substring Without Repeating Characters (`Problem 3`)
 - [x] Container With Most Water (`Problem 11`)
 - [ ] Trapping Rain Water
 - [ ] Minimum Size Subarray Sum
 
 ### Linked List
+
 - [x] Add Two Numbers (`Problem 2`)
 - [x] Merge Two Sorted Lists (`Problem 21`)
 - [x] Swap Nodes in Pairs (`Problem 24`)
@@ -56,38 +61,63 @@ This is the progress checklist for Neetcode 150 topics, with items marked for pr
 - [ ] Reorder List / Palindrome Linked List
 
 ### Binary Search
+
 - [x] Median of Two Sorted Arrays (`Problem 4`)
 - [ ] Search in Rotated Sorted Array
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search a 2D Matrix
 
 ### Dynamic Programming
+
 - [x] Triangle (`Problem 120`)
 - [ ] Climbing Stairs / House Robber
 - [ ] Longest Increasing Subsequence
 - [ ] Coin Change
 
+### Trees
+
+- [x] Invert Binary Tree (`Problem 226`)
+- [ ] Maximum Depth of Binary Tree
+- [ ] Diameter of Binary Tree
+- [ ] Balanced Binary Tree
+- [ ] Same Tree
+- [ ] Subtree of Another Tree
+- [ ] Lowest Common Ancestor of a Binary Search Tree
+- [ ] Binary Tree Level Order Traversal
+- [ ] Binary Tree Right Side View
+- [ ] Count Good Nodes In Binary Tree
+- [ ] Validate Binary Search Tree
+- [ ] Kth Smallest Element In A BST
+- [ ] Construct Binary Tree From Preorder And Inorder Traversal
+- [ ] Binary Tree Maximum Path Sum
+- [ ] Serialize And Deserialize Binary Tree
+
 ### Greedy
+
 - [x] Best Time to Buy and Sell Stock (`Problem 121`)
 - [ ] Jump Game
 - [ ] Partition Labels
 - [ ] Assign Cookies
 
 ### Board / Backtracking
+
 - [x] Valid Sudoku (`Problem 36`)
 - [ ] Word Search
 - [ ] N-Queens
 - [ ] Sudoku Solver
 
 ### Prefix Sum / Binary Search / Other
+
 - [x] Plates Between Candles (`Problem 2055`)
 - [ ] Range Sum Query / NumMatrix
 - [ ] Number of Subarrays with Sum K
 
 ### Math / Other
+
 - [x] Integer to Roman (`Problem 12`)
 
 ### Remaining Neetcode 150 Topics to Cover
+
 - [ ] Graph / BFS / DFS
 - [ ] Trees / Binary Search Tree
 - [ ] Heap / Priority Queue
