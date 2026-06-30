@@ -17,6 +17,7 @@ This repository contains LeetCode problems I have attempted so far, organized by
 - **Problem 121:** `stock.cpp` — Best Time to Buy and Sell Stock
 - **Problem 141:** `cycle.py` — Linked List Cycle
 - **Problem 155:** `minstack.py` — Min Stack
+- **Problem 167:** `twosumtwo.py` — Two Sum II - Input Array Is Sorted
 - **Problem 2055:** `plate_between_candles.cpp` — Plates Between Candles
 - **Problem 206:** `reverse.py` — Reverse Linked List
 - **Problem 217:** `duplicate.cpp` — Contains Duplicate
@@ -35,7 +36,7 @@ This is the progress checklist for Neetcode 150 topics, with items marked for pr
 - [x] Contains Duplicate (`Problem 217`)
 - [x] Product of Array Except Self (`Problem 238`)
 - [ ] 3Sum / 4Sum
-- [ ] Two Sum II / Two Sum Less Than K
+- [x] Two Sum II / Two Sum Less Than K
 
 ### Stack
 
@@ -43,6 +44,8 @@ This is the progress checklist for Neetcode 150 topics, with items marked for pr
 - [ ] Valid Parentheses
 - [ ] Daily Temperatures
 - [ ] Car Fleet
+- [ ] Evalutate Reverse Polish Notation
+- [ ] Largest Rectangle in Histogram
 
 ### Two Pointers / Sliding Window
 
